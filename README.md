@@ -14,6 +14,7 @@ pip install requirements.txt
 
 ## How to use
 Firstly, go to the stage you want to repeat and open the mission brief with the start button at the bottom right of the screen.
+![](https://raw.githubusercontent.com/dxong96/arknight-auto/master/test-images/initial-sample2.jpg)
 
 From your terminal run the following command from the source directory
 ```bash
